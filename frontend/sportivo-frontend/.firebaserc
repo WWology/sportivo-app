@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sportivopos": {
+      "hosting": {
+        "sportivo-frontend": [
+          "sportivopos"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sportivopos"
+  }
+}
